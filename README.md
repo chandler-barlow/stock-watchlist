@@ -17,5 +17,5 @@ $ stock-watchlist
 ```
 ## Editing the watchlist</br>
 To edit the watchlist change the config.json file</br>
-delay is the timein minutes you'd ike the watchlist to refresh at. If it's zero the watchlist will just run once.</br>
+delay is the time in minutes you'd ike the watchlist to refresh at. If it's zero the watchlist will just run once.</br>
 Add the symbol of companies you'd like to watch in the watchlist.</br>
