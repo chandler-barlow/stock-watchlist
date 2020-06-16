@@ -11,6 +11,11 @@ $ chmod +x install
 $ chmod +x stock-watchlist
 ./install
 ```
+Install might need to be run as sudo.</br>
+If you have issues try this</br>
+```
+$ sudo ./install
+```
 now the stock-watchlist should be in your path and you can run it with</br>
 ```
 $ stock-watchlist
