@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ~/stock-watchlist/
+source ./bin/activate
+python3 ./src/stock-watchlist.py
